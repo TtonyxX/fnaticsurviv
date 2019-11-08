@@ -48,3 +48,10 @@ body {
 .mb-1 {
   margin-bottom: 5px;
 }
+
+.merch-img {
+  width: 29vw;
+  min-width: 200px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
